@@ -12,7 +12,7 @@ website:
       - icon: github
         href: https://github.com/cmadland/edci339
       - icon: bluesky
-        href: https://bsky.app/@cmad.land
+        href: https://bsky.app/profile/cmad.land
       - icon: rss
         href: index.xml
 format:
