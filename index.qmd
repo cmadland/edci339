@@ -1,5 +1,5 @@
 ---
-title: "edci337"
+title: "EDCI 339 Instructor Updates"
 listing:
   contents: posts
   feed: 
