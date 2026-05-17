@@ -1,0 +1,52 @@
+---
+title: "Long Weekend Update"
+author: "Colin Madland"
+date: "2026-05-17"
+categories: [summer 2026]
+image: "sunrise.jpg"
+---
+
+
+::: {.callout-important}
+
+[I've added to Brightspace a draft of the syllabus](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3848240/View), because you need to see something. This version hasn't been officially approved by the dep't, so is subject to change _**with advance notice**_!
+
+:::
+
+Quick update for this weekend, as many of you are trying to get going on your first tasks of the course, which, as you know, includes setting up a WordPress blog at [https://opened.ca](https://opened.ca), or, as I may refer to it, the OpenETC.
+
+The OpenETC is run as a volunteer learning infrastructure project by a small team of folks, providing BC postsecondary students with accessible and open learning blogs, among other things.
+
+As it is a small team, sometimes things get a bit bogged down, and the beginning of a semester is often one of those times, so your patience is requested.
+
+If you see a message that reads
+
+> “Your site is currently being set up. Please check back in a few minutes!” 
+
+...and it has been like that for more than a day or so, the resolution is simple. Please send me an email with the following information:
+
+- the class you are in (EDCI339)
+- your **UVic** email address (can't be any other email)
+- your username on the openETC
+- the URL you would like to use for the site
+- the title you would like to use for the site
+
+I will forward this on to the OpenETC admins and they will be able to resolve the situation.
+
+This may take a day or so, which obviously means that you will be unable to publish a post for a day or two. Don't worry about that, you won't lose credit for your work. My suggestion is that if you are waiting for your blog, you can compose your intro in the Brightspace forum for now and copy paste into WordPress once you have access. 
+
+
+::: {.callout}
+
+
+
+## Reminders
+
+
+- Please complete the [Learning Pathways Survey linked in Brightspace](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846050/View).
+- [Sign up for a Learning Pod.](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View)
+- [Draft or Publish your Self-Intro post](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845925/View). You can do this in the Brightspace forum if you are waiting on your blog.
+
+
+
+:::

@@ -10,7 +10,17 @@
 <atom:link href="https://cmadland.github.io/edci339/index.xml" rel="self" type="application/rss+xml"/>
 <description>EDCI 339 Instructor Posts</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Wed, 13 May 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 17 May 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Long Weekend Update</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci339/posts/may-17/</link>
+  <description><![CDATA[ <a href="https://bright.uvic.ca/d2l/le/content/478290/viewContent/3848240/View">I’ve added to Brightspace a draft of the syllabus</a>, because you need to see something. This version hasn’t been officially approved by the dep’t, so is subject to change <em><strong>with advance notice</strong></em>! ]]></description>
+  <category>summer 2026</category>
+  <guid>https://cmadland.github.io/edci339/posts/may-17/</guid>
+  <pubDate>Sun, 17 May 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci339/posts/may-17/sunrise.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 1</title>
   <dc:creator>Colin Madland</dc:creator>
