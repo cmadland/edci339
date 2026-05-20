@@ -1,0 +1,29 @@
+---
+title: "Bonnie Stewart"
+author: "Colin Madland"
+date: "2026-05-20"
+categories: [summer 2026, guest]
+image: "https://edtechuvic.ca/edci136/wp-content/uploads/sites/19/2025/03/bonnie.png"
+license: CC-BY
+---
+
+
+::: {.callout}
+
+This post was originally published at [edtechuvic.ca/edci136](https://edtechuvic.ca/edci136/2025/03/08/bonnie-stewart/), and is reproduced here under the original Creative Commons Attribution license.
+
+:::
+
+# Recording from EDCI136
+
+![Bonnie Stewart](https://edtechuvic.ca/edci136/wp-content/uploads/sites/19/2025/03/bonnie.png)
+
+
+Bonnie is an educator and social media researcher fascinated by who we are when we’re online. Associate Professor of Online Pedagogy and Workplace Learning at the University of Windsor, Canada, Bonnie explores the implications of digital information ecosystems for institutions and society. Bonnie was an early MOOC researcher and ethnographer of Twitter as an academic environment, and currently investigates what it means to know, to learn, and to belong.
+
+
+[Click here to watch the recording.](https://edtechuvic.ca/edci136/2025/03/08/bonnie-stewart/)
+
+## Relevant reading
+
+Szcyrek, S., & Stewart, B. (2022). [Surveillance in the System: Data as Critical Change in Higher Education](https://doi.org/10.18357/otessaj.2022.2.2.34). The Open/Technology in Education, Society, and Scholarship Association Journal, 2(2), 1–20. <https://doi.org/10.18357/otessaj.2022.2.2.34>

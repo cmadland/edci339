@@ -1,0 +1,58 @@
+---
+title: "Week 2 - May 20"
+author: "Colin Madland"
+date: "2026-05-20"
+categories: [summer 2026]
+image: "derp.jpg"
+image-alt: "Ellie is my blind German Shepherd x Bernese Mountain Dog. In this image, she is looking back over her shoulder and her ear is standing straight up. She looks derpy."
+---
+
+# Meeting Agenda - May 20
+
+- your blog status  
+- [Learner Pathways Survey](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846050/View)  
+- [Learning Pod Sign-up](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View)  
+- Course Outline   
+  - class meetings mandatory and not recorded  
+- Decide on your Assignment 1 inquiry topic before Week 3 - it needs to be related to online or open education. Consider the ideas on the Assignment 1 page on the course website.   
+- [ ] ToDo: Make a reflective blog post on the topics covered above (after reviewing the blog or media resources provided) and follow the recommendations provided on how to make a good blog post.
+- Exploring Privacy in Learning Pods
+
+## FIPPA, Privacy, and Security
+
+> Data is the new oil. ~Someone on the Internet
+
+## Sites to visit
+
+- [clickclickclick.click](https://clickclickclick.click). 
+- [Since You Arrived](https://sinceyouarrived.world/taken). 
+- [Privacy.net](https://privacy.net/analyzer/). 
+- Google Maps (on mobile) -> Timeline
+
+
+## Current Events
+
+
+::: {.callout-important}
+
+I'm providing the following links for conversation and analysis. You are NOT being asked to take any action or position for or against Bill C-22.
+
+:::
+
+
+- [Bill C-22 in Canada](https://www.justice.gc.ca/eng/csj-sjc/pl/c22/infographics-infographies.html). 
+- [Opposition to Bill C-22](https://dontsurveil.me/c22.html)
+
+### Recent Breaches
+
+- [US Cybersecurity and Infrastructure Security Agency](https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330)    
+- Canvas LMS  
+  - [CyberSecureDad](https://www.instagram.com/p/DYG6zkqG5Is/?img_index=1)  
+  - [CBC News](https://www.cbc.ca/news/canada/canvas-cyberhack-deal-9.7195425)  
+  - [Cybersecurity Canada](https://cybersecuritycanada.ca/news/posts/canvas-data-breach-what-canadian-universities-and-businesses-need-to-know/)
+- [Canada Life](https://cybersecuritycanada.ca/news/posts/canada-life-data-breach-what-canadians-need-to-know/)    
+
+## Disconnecting
+
+- [Paris Marx on Disconnecting from US Tech](https://disconnect.blog/getting-off-us-tech-a-guide/). 
+- [Stop Google from Tracking You.](https://cyberguy.com/privacy/stop-google-following-move/) 

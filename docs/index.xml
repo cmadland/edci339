@@ -10,7 +10,28 @@
 <atom:link href="https://cmadland.github.io/edci339/index.xml" rel="self" type="application/rss+xml"/>
 <description>EDCI 339 Instructor Posts</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Tue, 19 May 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 2 - May 20</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci339/posts/may-20/</link>
+  <description><![CDATA[ Data is the new oil. ~Someone on the Internet ]]></description>
+  <category>summer 2026</category>
+  <guid>https://cmadland.github.io/edci339/posts/may-20/</guid>
+  <pubDate>Wed, 20 May 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci339/posts/may-20/derp.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bonnie Stewart</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci339/posts/bonnie-stewart-136/</link>
+  <description><![CDATA[ This post was originally published at <a href="https://edtechuvic.ca/edci136/2025/03/08/bonnie-stewart/">edtechuvic.ca/edci136</a>, and is reproduced here under the original Creative Commons Attribution license. ]]></description>
+  <category>summer 2026</category>
+  <category>guest</category>
+  <guid>https://cmadland.github.io/edci339/posts/bonnie-stewart-136/</guid>
+  <pubDate>Wed, 20 May 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://edtechuvic.ca/edci136/wp-content/uploads/sites/19/2025/03/bonnie.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>Course Expectations</title>
   <dc:creator>Colin Madland</dc:creator>

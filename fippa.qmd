@@ -1,4 +1,14 @@
-# FIPPA, Privacy, and Consent Resources
+---
+license: CC-BY
+---
+# Privacy
+
+
+::: {.callout}
+
+This post was originally published at [edtechuvic.ca/edci339](https://edtechuvic.ca/edci339/?page_id=76). It is reproduced here under the original Creative Commons Attribution License.
+
+:::
 
 It is second nature to most to take selfies, share them on instagram, Snapchat, etc., but once you move into the role of a public school teacher, you must adhere to the laws set out by the B.C. Office of Information and Privacy Commissioner. Their office has put together guidelines for you to follow to better understand what the rules are and how to get consent, which is detailed on page 4:
 
