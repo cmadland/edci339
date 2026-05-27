@@ -7,6 +7,9 @@ image: "bobby.jpeg"
 image-alt: "Bobby is our old, super chill, grey and white cat, mostly composed of fluff. He was a rescue from the TRU Vet Tech program. He's sitting in our sparse backyard, which is mostly clover."
 ---
 
+![GitHub last commit](https://img.shields.io/github/last-commit/cmadland/edci337?display_timestamp=author)
+
+
 ## Meeting Agenda - May 27
 
 ## Course Logistics
@@ -19,6 +22,16 @@ image-alt: "Bobby is our old, super chill, grey and white cat, mostly composed o
 - [Learner Pathways Survey](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846050/View)  
 - [Learning Pod Sign-up](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View)   
 - Publish a blog post describing your inquiry topic. You only need one post per Learning Pod, but make sure there are links to each Learning Pod member's site in the post.
+:::
+
+
+::: {.callout}
+
+## NEW
+
+- Please publish on your blog your inquiry topic and the format you plan to use by **Sunday, May 31**.  
+- Try to have 1-2 process posts related to your inquiry project by **Wednesday, June 3**.
+
 :::
 
 
