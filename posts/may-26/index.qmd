@@ -1,0 +1,97 @@
+---
+title: "Week 3 - May 27"
+author: "Colin Madland"
+date: "2026-05-26"
+categories: [summer 2026]
+image: "bobby.jpeg"
+image-alt: "Bobby is our old, super chill, grey and white cat, mostly composed of fluff. He was a rescue from the TRU Vet Tech program. He's sitting in our sparse backyard, which is mostly clover."
+---
+
+## Meeting Agenda - May 27
+
+## Course Logistics
+
+::: {.callout-important}
+
+## Urgent
+
+- Your [blog status](https://cmadland.github.io/edci339/posts/may-17/)  
+- [Learner Pathways Survey](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846050/View)  
+- [Learning Pod Sign-up](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View)   
+- Publish a blog post describing your inquiry topic. You only need one post per Learning Pod, but make sure there are links to each Learning Pod member's site in the post.
+:::
+
+
+ 
+
+
+## Exploring Theories for Digital Learning
+
+
+The following video was recorded by Dr. Valerie Irvine for EDCI339 in Fall 2025. Many of the things she mentions in the video are direct outputs from her research and 20 years of practice related to online learning. She mentions a few things that don't apply to us, such as Mattermost, and starting learning pods, but most of the presentation is highly relevant.
+
+Please use the ideas in this video and the questions below as the basis for your blog post this week.
+
+Dr. Irvine mentions 5 focus questions in the video:
+
+1. What does this mean? 
+
+> "Program Delivery:
+> The cohort will include face-to-face instruction in courses taught in a centrally-located Vancouver site, and flexible, blended formats that mix onsite and online learning."  
+
+2. Can you think about a case where a learner was unable to access education due to a modality or inflexibility in learning design?  
+  - What were the obstacles?  
+  - What was the outcome? (_minding confidentiality_)
+
+3. What percentage of learners do you think prefer as their FIRST choice:
+- F2F  
+- Hybrid  
+- Multi-Access  
+- Online  
+- Offline  
+
+4. What do you think is the FIRST choice mode for learners in the following groups?
+
+
+::: {.columns}
+
+::: {.column}
+
+- Disability/Chronic health.  
+- Caregiving.  
+- First Gen.  
+- Working.  
+- First Year.  
+- Pre-College/Adult Grad. 
+
+
+:::
+
+::: {.column}
+
+- Rural.  
+- Indigenous.  
+- English as an Additional Language
+- International.  
+- 2SLGBTQIA+
+
+:::
+
+:::
+
+5. What do you think is the future of modality in education (or learning in your discipline)?
+
+
+<iframe src="https://echo360.ca/public/media/b7448d21-2ea2-43ff-a70e-8faea527470b?autoplay=false&amp;automute=false" width="640" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+## Things To Do This Week
+
+
+- Review the brief Dr. Valerie Irvine [submitted to the BC Government in the Summer of 2020](https://drive.google.com/file/d/1IpQMf5NPAaf6NYcMMCyptNoH887qz5Ro/view?usp=sharing) regarding the recommendations for support of digital learning in BC. 
+- Review the resulting [BC Digital Learning Strategy](https://www2.gov.bc.ca/gov/content/education-training/post-secondary-education/institution-resources-administration/digital-learning-strategy) that arose with diverse contributions from across the sector.  
+- Make sure you have [signed up for a Learning Pod](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View) and [use the link in Brightspace to book a meeting with me](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846196/View) to review your blog, questions, and inquiry topics.  
+  - Enter your names in the cells and the pod will form around you as others sign up. Set a time to meet weekly synchronously. When you have a topic set, post it on the sign-up - first come, first served and no topic duplications between groups.  
+- You can start to post reflection posts to curate your learning from this course. Make sure to review [What Makes a Good Blog Post](https://edtechuvic.ca/edci339/2023/09/21/what-makes-a-good-blog-post/) (found under Technology Competencies/Social Media menus).  
+- When it comes to documenting your inquiry for [Assignment 1](https://edtechuvic.ca/edci339/assignment-1-free-inquiry-project/), review the [sample inquiry](https://www.learningstorm.org/wp-content/uploads/2015/01/PSII-inquiry-guide-sample.pdf) offered by the PSII School for steps of inquiry. You can use their [inquiry template](https://www.learningstorm.org/wp-content/uploads/2015/01/PSII-inquiry-guide-fillable-blank1.pdf) to support your process. This does not need to be submitted, but as a scaffold for you.  
+- To help you with developing questions for inquiry, consider [springboard questions.](https://www.learningstorm.org/wp-content/uploads/2015/01/question-types-for-website.jpg)
+- I also added an [accessibility resource](https://edtechuvic.ca/edci339/13-2/) by UVic to our Support page (under About) to help folks learn more about their rights and options pertaining to accommodations.
