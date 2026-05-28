@@ -2,12 +2,13 @@
 title: "Week 3 - May 27"
 author: "Colin Madland"
 date: "2026-05-26"
+date-modified: last-modified
 categories: [summer 2026]
 image: "bobby.jpeg"
 image-alt: "Bobby is our old, super chill, grey and white cat, mostly composed of fluff. He was a rescue from the TRU Vet Tech program. He's sitting in our sparse backyard, which is mostly clover."
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/cmadland/edci337)
+
 
 
 
