@@ -7,8 +7,8 @@ categories: [summer 2026]
 image: "north-glenmore-bike.jpeg"
 image-alt: "Image of my Surly Straggler bike leaning against a rock overlooking a pastoral valley farmland scene. If you squint, you can see UBCO in the top right corner."
 bibliography: ../../refs.bib
-draft: true
-draft-mode: unlinked
+# draft: true
+# draft-mode: unlinked
 ---
 
 
@@ -23,10 +23,12 @@ draft-mode: unlinked
 
 ## Urgent
 
-- Your [blog status](https://cmadland.github.io/edci339/posts/may-17/)  
-- [Learner Pathways Survey](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846050/View)  
-- [Learning Pod Sign-up](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View)   
-- Publish a blog post describing your inquiry topic. You only need one post per Learning Pod, but make sure there are links to each Learning Pod member's site in the post.
+- [x] Your [blog status](https://cmadland.github.io/edci339/posts/may-17/)  
+- [x] [Learner Pathways Survey](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3846050/View)  
+- [x] [Learning Pod Sign-up](https://bright.uvic.ca/d2l/le/content/478290/viewContent/3845921/View)   
+- [x] Publish a blog post describing your inquiry topic. You only need one post per Learning Pod, but make sure there are links to each Learning Pod member's site in the post.  
+- [x] Please publish on your blog your inquiry topic and the format you plan to use by **Sunday, May 31**.  
+- [x] Try to have 1-2 process posts related to your inquiry project by **Wednesday, June 3**.
 :::
 
 
@@ -34,8 +36,8 @@ draft-mode: unlinked
 
 ## NEW
 
-- Please publish on your blog your inquiry topic and the format you plan to use by **Sunday, May 31**.  
-- Try to have 1-2 process posts related to your inquiry project by **Wednesday, June 3**.
+- [ ] Process posts for your Inquiry project
+- [ ] Post about how technology impacts assessment based on Bower [-@bowerTechnologymediatedLearningTheory2019]
 
 :::
 
@@ -200,4 +202,9 @@ Where
 ### Class Activity
 
 - breakout rooms. 
-- [download this file](https://github.com/cmadland/edci339/blob/main/sample_gradebook_raw.xlsx)
+- [download this file](https://github.com/cmadland/edci339/blob/main/sample_gradebook_raw.xlsx)  
+  - click the link, then choose 'Download raw file' in the top, right corner of the page.
+  ![rawcode](rawcode.png)
+- as a group, decide how these course grades will translate into final grades.  
+- feel free to use formulas in Excel to assist your calculations.
+- Return to Main room for conversation.

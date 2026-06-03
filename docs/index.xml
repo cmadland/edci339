@@ -10,7 +10,17 @@
 <atom:link href="https://cmadland.github.io/edci339/index.xml" rel="self" type="application/rss+xml"/>
 <description>EDCI 339 Instructor Posts</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Tue, 26 May 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 4 - June 3</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci339/posts/june-3/</link>
+  <description><![CDATA[ In this unit, we will explore the nature of technology integrated assessment. In any formal learning environment, and many informal learning environments, there is a requirement for the instructor to engage in some sort of assessment of how well the learners are achieving the outcomes intended in the course design. Typically, this has happened with the assignment of a grade in a percentage or letter format, and usually accompanied by a significant amount of feedback from the instructor. In order to do this, the instructor needs to come to know what the learner knows, can do, or has become in relation to the outcomes. Coaching and facilitation are two activities that are highly dependent on assessing a learner’s knowledge or ability in relation to a learning outcome and are key components of the process of certifying that a learner has achieved a certain level of proficiency. Knowledge of results occurs when an instructor or learner have identified a gap between what the learner is currently able to do and what they should be able to do in light of the course or program learning outcomes. Feedback occurs when information about how to close that gap is identified and the learner has the opportunity to improve their performance. ]]></description>
+  <category>summer 2026</category>
+  <guid>https://cmadland.github.io/edci339/posts/june-3/</guid>
+  <pubDate>Wed, 03 Jun 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci339/posts/june-3/north-glenmore-bike.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 3 - May 27</title>
   <dc:creator>Colin Madland</dc:creator>
@@ -77,7 +87,7 @@
   <link>https://cmadland.github.io/edci339/posts/june-3/wingding.html</link>
   <description><![CDATA[ undefined ]]></description>
   <guid>https://cmadland.github.io/edci339/posts/june-3/wingding.html</guid>
-  <pubDate>Wed, 03 Jun 2026 19:07:00 GMT</pubDate>
+  <pubDate>Wed, 03 Jun 2026 19:25:58 GMT</pubDate>
 </item>
 </channel>
 </rss>
