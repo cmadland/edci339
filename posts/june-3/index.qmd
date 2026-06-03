@@ -199,4 +199,4 @@ Where
 ### Class Activity
 
 - breakout rooms. 
-- download this file 
+- [download this file](https://github.com/cmadland/edci339/blob/main/sample_gradebook_raw.xlsx)
