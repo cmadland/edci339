@@ -8,6 +8,7 @@ image: "north-glenmore-bike.jpeg"
 image-alt: "Image of my Surly Straggler bike leaning against a rock overlooking a pastoral valley farmland scene. If you squint, you can see UBCO in the top right corner."
 bibliography: ../../refs.bib
 draft: true
+draft-mode: unlinked
 ---
 
 
