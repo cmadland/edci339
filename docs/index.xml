@@ -10,7 +10,31 @@
 <atom:link href="https://cmadland.github.io/edci339/index.xml" rel="self" type="application/rss+xml"/>
 <description>EDCI 339 Instructor Posts</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Wed, 03 Jun 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 5 - June 10</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci339/posts/june-10/</link>
+  <description><![CDATA[ 
+
+<ul>
+<li>If you haven’t already, please post your <a href="https://edtechuvic.ca/edci339/assignment-2-educational-technology-presentation-30/">Online Learning Presentation</a> to your blog.</li>
+<li><a href="https://calendar.proton.me/bookings#ds0BflsDPBRrqaOCr3hDYlrp0Icad1HYmZU-hjUqdiY=">Book a meeting with me if you have questions.</a>, particularly about your Inquiry Project.</li>
+<li>Coming up
+<ul>
+<li>In 2 weeks (June 24), we will hit the end date of the course, and you should have submitted all work to me via your blog.</li>
+<li>Inquiry Project</li>
+<li>Choose one blog post for me to grade.</li>
+</ul></li>
+</ul>
+
+
+ ]]></description>
+  <category>summer 2026</category>
+  <guid>https://cmadland.github.io/edci339/posts/june-10/</guid>
+  <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci339/posts/june-10/strawberries.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 4 - June 3</title>
   <dc:creator>Colin Madland</dc:creator>
@@ -87,7 +111,7 @@
   <link>https://cmadland.github.io/edci339/posts/june-3/wingding.html</link>
   <description><![CDATA[ undefined ]]></description>
   <guid>https://cmadland.github.io/edci339/posts/june-3/wingding.html</guid>
-  <pubDate>Wed, 03 Jun 2026 19:25:58 GMT</pubDate>
+  <pubDate>Wed, 10 Jun 2026 19:52:04 GMT</pubDate>
 </item>
 </channel>
 </rss>
