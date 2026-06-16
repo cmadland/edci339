@@ -12,7 +12,19 @@ image-alt: "Giant flat of fresh, red, juicy loking strawberries."
 
 - If you haven't already, please post your [Online Learning Presentation](https://edtechuvic.ca/edci339/assignment-2-educational-technology-presentation-30/) to your blog.
 - [Book a meeting with me if you have questions.](https://calendar.proton.me/bookings#ds0BflsDPBRrqaOCr3hDYlrp0Icad1HYmZU-hjUqdiY=), particularly about your Inquiry Project.
-- [Document shared in the class meeting.](https://drive.google.com/file/d/140xKJVAIAQxCukS5VhPmdGmv9xLL4fa4/view)
+
+## Links shared in class
+- [AEST](https://drive.google.com/file/d/140xKJVAIAQxCukS5VhPmdGmv9xLL4fa4/view)
+- [BC Digital Literacy Strategy](https://www2.gov.bc.ca/gov/content/education-training/post-secondary-education/institution-resources-administration/digital-learning-strategy)
+- [K12 Digital Literacy Framework](https://www2.gov.bc.ca/gov/content/education-training/k-12/teach/resources-for-teachers/digital-literacy)
+- [AI Literacy Framework](https://www2.gov.bc.ca/gov/content/education-training/k-12/teach/resources-for-teachers/digital-literacy)
+- [ISTE Standards](https://iste.org/standards)
+- [USA Freedom Act](https://en.wikipedia.org/wiki/USA_Freedom_Act)
+- [Emily Miller (UVic MEd Project)](https://dspace.library.uvic.ca/server/api/core/bitstreams/399a0df8-69c8-44a2-94e2-678f06ab2b78/content)
+- Tessaro, D., Restoule, J.-P., Gaviria, P., Flessa, J., Lindeman, C., & Scully-Stewart, C. (2018). [The Five R’s for Indigenizing Online Learning: A Case Study of the First Nations Schools’ Principals Course](https://www.researchgate.net/publication/328289320_The_Five_R%27s_for_Indigenizing_Online_Learning_A_Case_Study_of_the_First_Nations_Schools%27_Principals_Course). Canadian Journal of Native Education, 40(1), 125–143. 
+- [Multi-access learning paper](https://jolt.merlot.org/vol9no2/irvine_0613.htm).
+
+
 
 ## Coming up
   - In 2 weeks (June 24), we will hit the end date of the course, and you should have submitted all work to me via your blog.

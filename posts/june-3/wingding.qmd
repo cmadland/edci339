@@ -1,5 +1,8 @@
 ---
+title: "Sample Quiz"
 format: revealjs
+date: 2026-06-03
+date-modified: today
 ---
 
 ## 
