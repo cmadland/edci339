@@ -10,7 +10,23 @@
 <atom:link href="https://cmadland.github.io/edci339/index.xml" rel="self" type="application/rss+xml"/>
 <description>EDCI 339 Instructor Posts</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Wed, 10 Jun 2026 07:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Week 6 - June 17</title>
+  <dc:creator>Colin Madland</dc:creator>
+  <link>https://cmadland.github.io/edci339/posts/june-17/</link>
+  <description><![CDATA[ 
+
+<ul>
+<li>If you haven’t already, please post your <a href="https://edtechuvic.ca/edci339/assignment-2-educational-technology-presentation-30/">Online Learning Presentation</a> to your blog.</li>
+<li><a href="https://calendar.proton.me/bookings#ds0BflsDPBRrqaOCr3hDYlrp0Icad1HYmZU-hjUqdiY=">Book a meeting with me if you have questions.</a>, particularly about your Inquiry Project.</li>
+</ul>
+ ]]></description>
+  <category>summer 2026</category>
+  <guid>https://cmadland.github.io/edci339/posts/june-17/</guid>
+  <pubDate>Wed, 17 Jun 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://cmadland.github.io/edci339/posts/june-17/sunset-rainbow.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Week 5 - June 10</title>
   <dc:creator>Colin Madland</dc:creator>
